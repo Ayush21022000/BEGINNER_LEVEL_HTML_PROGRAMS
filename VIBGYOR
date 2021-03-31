@@ -1,0 +1,17 @@
+<!doctype html> 
+<html>
+<head><title>EXPERIMENT ONE WEB ENGINEERING</title></head>
+<body style="background-color: black">
+	<h3 style="color: orange">VARIOUS COLORS IN VIBGYOR SPECTRUM</h3>
+	<ul>
+		<li style=" color: Violet">Violet</li>
+		<li style=" color: Indigo">Indigo</li>
+		<li style=" color: Blue">Blue</li>
+		<li style=" color: limeGreen">Green</li>
+		<li style=" color: Yellow">Yellow</li>
+		<li style=" color: Orange">Orange</li>
+		<li style=" color: Red">Red</li>
+	</ul>
+	
+</body>
+</html>
