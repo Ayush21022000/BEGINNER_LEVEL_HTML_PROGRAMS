@@ -1,0 +1,22 @@
+<html>
+<head>
+<h1>        GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY <h1>
+<h2>        DEPARTMENTS</h2>
+<select  name="DEPARTMENTS">
+    <option value="cs">COMPUTER SCIENCE</option>
+    <option value="it">INFORMATION TECHNOLOGY</option>
+    <option value="ece">ELECTRONIC AND COMMUNICATION ENGINEERING</option> 
+    <option value="eee">ELECTRICAL AND ELECTRONIC ENGINEERING</option>
+  </select>
+</head>
+<body> <h1 style="background-color:DodgerBlack;">INFORMATION TECHNOLOGY</h1>
+<p>The Department of Information Technology deals with the dynamic analysis of an evolving plethora of information and applying it towards the manipulation of design and development of communication strategies.
+<h2>Emphasis Here is given to:</h2>
+<p>Quality education to comply with dynamic industry trends and global challenges.
+<p>Acquainting the students with the latest technology in networking.
+<p>To develop human resources with sound knowledge and intellectual capability for innovation, research and excellence in the field of Information Technology.
+<p>This department has strong computer labs in the form of state-of-the-art IBM computers,with the latest softwares and internet facilities. Student computer ratio is 1:1.
+<h3> HOD</h3>
+<p> Mr. P.S.Bedi
+</body>
+</html>
