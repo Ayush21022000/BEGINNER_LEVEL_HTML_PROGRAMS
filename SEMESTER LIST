@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head><title>Second WE experment</title></head>
+<body style="background-color: pink">
+<body >
+
+<dl>
+	<dt style="color: red">A. First Semester Subjects</dt>
+	<ol><dd style="color: darkBlue"><li>Applied Mathematics-I</li></dd>
+	<dd style="color: blue"><li>Applied Physics-I</li></dd>
+	<dd style="color: green"><li>Manufacturing Processes</li></dd>
+	<dd style="color: violet"><li>Human Values and Professional Ethics-I#</li></dd>
+	<dd style="color: indigo"><li>Fundamental of Computing</li></dd>
+	<dd style="color:brown"><li>Applied Chemistry</li></dd></ol>
+    
+	<dt style="color: red">B. Second Semester Subjects</dt>
+	<ol><dd style="color: green"><li>Applied Mathematics-II</li></dd>
+	<dd style="color: grey"><li>Applied Physics-II</li></dd>
+	<dd style="color: indigo"><li>Electronic Devices</li></dd>
+	<dd style="color: blue"><li>Introduction to Programming</li></dd>
+	<dd style="color:brown"><li>Engineering Mechanics</li></dd>
+	<dd style="color: yellow"><li>Communication Skills</li></dd>
+	<dd style="color: white"><li>Environment Studies</li></dd></ol>
+</dl>
+</body>
+</html>
