@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head><title>3RD Experiment</title></head>
+<style type="text/css">
+	table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+}
+</style>
+<body>
+	
+	<div align="center">
+            <table width="50%" >
+            <tr>
+                <td colspan="2">This is first cell</td>
+                <td colspan="2">This is second cell</td>
+            </tr>
+            <tr>
+                <td colspan="2">This is third cell</td>
+                <td rowspan="2" colspan="2">This is Fourth cell</td>
+            </tr>
+            <tr>
+                <td colspan="2">.</td>
+            </tr>
+
+            <tr>
+                <td>one</td>
+                <td>two</td>
+                <td colspan="2"></td>
+            </tr>
+             <tr>
+                <td>three</td>
+                <td>four</td>
+                <td colspan="2"></td>
+            </tr>
+            <tr>
+                <td colspan="2">.</td>
+                <td colspan="2">.</td>
+            </tr>
+            </table>
+        </div>
+
+</body>
+</html>
