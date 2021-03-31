@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Nested Frames</title>
+    </head>
+    <frameset rows="50% , 50%">
+    <frameset cols="50% , 50%">
+        <frame style="background-color: blue;">
+        <frame style="background-color: pink;">
+        
+        </frameset>
+    <frame style="background-color:gray;">
+    </frameset>
+</html>
